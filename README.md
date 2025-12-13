@@ -5,7 +5,6 @@
 <nav>
 <menu>Home</menu>
 <menu>Casinò</menu>
-
 </nav>
 
 </head>
