@@ -3,8 +3,9 @@
 <head>
 <allert>It's a proved</allert>
 <nav>
-<menu>
-</menu>
+<menu>Home</menu>
+<menu>Casinò</menu>
+
 </nav>
 
 </head>
