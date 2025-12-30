@@ -3,8 +3,10 @@
 <head>
 <allert>It's a proved</allert>
 <nav>
-<menu>Home</menu>
-<menu>Casinò</menu>
+  <menu>
+<li>Home</li>
+<li>Casinò</li>
+</menu>
 </nav>
 
 </head>
