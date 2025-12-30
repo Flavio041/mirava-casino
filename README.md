@@ -1,7 +1,7 @@
 # mirava-casino
 <html language='it'>
 <head>
-<alert>It's a proved</alert>
+<alert>Is a proved</alert>
 <nav>
   <menu>
 <li>Home</li>
